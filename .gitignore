@@ -8,3 +8,5 @@ wheels/
 Qwen_Qwen3.5-4B-Q6_K.gguf
 # Virtual environments
 .venv
+/index-tts/
+/simple_tts_examples/*
